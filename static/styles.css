@@ -82,7 +82,7 @@
   transition: all 0.8s ease;
 }
 .about .social.linkedin .icon {
-  background-image: url(https://raw.githubusercontent.com/Gauravias/bot/dc2582097a7ac7bf9a4a9b8e792691476ae1dcca/linkedin.svg);
+  background-image: url(LOGOGO.png);
 }
 .about:hover {
   width: 150px;
